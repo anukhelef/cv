@@ -1,0 +1,44 @@
+body {
+  background: #fed9ca;
+  /*background: #cdffeb;*/
+  width: 1200px;
+  margin: 0 auto;
+}
+/*
+li {
+  display: inline;
+
+}
+ul {
+  background: black;
+}*/
+
+h1 {
+  font-weight: 800;
+  margin-top: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  color:darkgray;
+  text-shadow: 3px 15px 10px white;
+  font-family: 'Coiny', cursive;
+
+
+}
+
+img {
+  width:250px;
+  border: 2px solid darkgray;
+  float: right;
+  margin: 20px;
+}
+
+p {
+  text-align: justify;
+  padding: 10px;
+  font-family: 'Coiny', cursive;
+  font-family: 'Indie Flower', cursive;
+
+
+
+}
